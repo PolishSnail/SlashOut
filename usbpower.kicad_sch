@@ -1466,7 +1466,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A"
 			(at 35.56 54.61 0)
 			(effects
 				(font

@@ -625,6 +625,14 @@
     [
       "299c7670-dda0-41eb-8bb6-83df9a929b73",
       "USB + Power"
+    ],
+    [
+      "176b07a5-e53c-4150-8ae3-822bba4cc850",
+      "Memory"
+    ],
+    [
+      "95af6ca6-7f02-4bbf-85cb-358cd6bb2679",
+      "Crystal oscillator"
     ]
   ],
   "text_variables": {}
