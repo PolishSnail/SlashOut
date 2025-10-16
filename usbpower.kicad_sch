@@ -1360,7 +1360,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 57.15) (xy 49.53 57.15)
+			(xy 46.99 57.15) (xy 54.61 57.15)
 		)
 		(stroke
 			(width 0)
@@ -1390,7 +1390,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 52.07) (xy 49.53 52.07)
+			(xy 46.99 52.07) (xy 54.61 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1418,27 +1418,25 @@
 		)
 		(uuid "cbdeb0ff-7cdf-494b-85a1-5639f74c9236")
 	)
-	(hierarchical_label "USBD+"
-		(shape output)
-		(at 49.53 57.15 0)
+	(label "USB_D+"
+		(at 54.61 57.15 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right bottom)
 		)
-		(uuid "6f60af32-98d4-4cf9-adf8-b93a503bc974")
+		(uuid "28667f75-3085-4297-a385-fa6a8c177fb8")
 	)
-	(hierarchical_label "USBD-"
-		(shape output)
-		(at 49.53 52.07 0)
+	(label "USB_D-"
+		(at 54.61 52.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right bottom)
 		)
-		(uuid "a9a11209-183d-4fcc-9c64-2ea1a0ae3dbf")
+		(uuid "c5aecf6f-c278-422f-961b-21f7c8f661fe")
 	)
 	(symbol
 		(lib_id "Connector:USB_C_Receptacle_USB2.0_14P")

@@ -770,6 +770,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 77.47) (xy 148.59 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ee1481c-27c6-40d6-ad94-019c838da327")
+	)
+	(wire
+		(pts
 			(xy 135.89 72.39) (xy 148.59 72.39)
 		)
 		(stroke
@@ -787,6 +797,36 @@
 			(type default)
 		)
 		(uuid "1805945b-907b-477f-b567-28f63cf56e51")
+	)
+	(wire
+		(pts
+			(xy 144.78 82.55) (xy 148.59 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3685addb-e15e-44c6-9f85-5b4941325d95")
+	)
+	(wire
+		(pts
+			(xy 144.78 85.09) (xy 148.59 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4775f532-4c74-411c-9371-d3027b0a2f3b")
+	)
+	(wire
+		(pts
+			(xy 144.78 74.93) (xy 148.59 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4db4291b-1300-4b2a-a7d3-ea3c25e50223")
 	)
 	(wire
 		(pts
@@ -847,6 +887,76 @@
 			(type default)
 		)
 		(uuid "c07a6a81-558b-46a7-a2cb-ebd2fba76ea5")
+	)
+	(wire
+		(pts
+			(xy 144.78 80.01) (xy 148.59 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f57868f1-5c01-4f8d-99fb-dbdff988a7d9")
+	)
+	(label "QSPI_SS"
+		(at 148.59 72.39 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "18ae3085-83f0-4852-9242-276433f166e0")
+	)
+	(label "QSPI_SD1"
+		(at 148.59 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "482027d8-4db0-4c80-8405-1ba4895ea1ce")
+	)
+	(label "QSPI_SD3"
+		(at 148.59 85.09 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "982cb268-0910-4961-954e-2929f7822eea")
+	)
+	(label "QSPI_SD2"
+		(at 148.59 82.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a1be4766-dc37-4c44-8efd-f20d2b5f4845")
+	)
+	(label "QSPI_SCLK"
+		(at 148.59 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ade37f23-8d2d-4a36-9c08-103f9b625102")
+	)
+	(label "QSPI_SD0"
+		(at 148.59 77.47 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ef186fed-4949-426c-a2db-47d63a9bf402")
 	)
 	(symbol
 		(lib_id "Device:R")

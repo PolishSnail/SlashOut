@@ -764,6 +764,26 @@
 		)
 		(uuid "ee4843c3-77a1-4a04-a0b2-692af8a7ebf2")
 	)
+	(label "XOUT"
+		(at 176.53 93.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2a818340-2ef5-4225-a0c9-b11633973475")
+	)
+	(label "XIN"
+		(at 176.53 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "71720cae-c316-4ada-9541-bd13455b37b6")
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 160.02 86.36 0)
